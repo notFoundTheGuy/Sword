@@ -1,5 +1,5 @@
-# Sword  ![](https://img.shields.io/badge/npm-v1.0.3-blue)
-![](http://q96wf5hgk.bkt.clouddn.com/logo-text.svg)
+# Sword  ![image](https://img.shields.io/badge/npm-v1.0.3-blue)
+![image](http://q96wf5hgk.bkt.clouddn.com/logo-text.svg)
 
 Sword 是一个基于Vue.js开发的个人组件库，主要用于以下方面。
 + 个人工作积累和学习总结。
