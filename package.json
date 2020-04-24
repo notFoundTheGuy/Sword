@@ -1,6 +1,6 @@
 {
     "name": "the-sword",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "the-sword组件库",
     "main": "dist/sword.min.js",
     "scripts": {
